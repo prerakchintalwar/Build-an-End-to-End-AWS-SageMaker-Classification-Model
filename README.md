@@ -10,10 +10,13 @@ sagemaker. Amazon sagemaker is a managed service on AWS cloud. It provides tools
 **Aim**
 * To understand the working of AWS
 * To build a classification model predicting a patient’s cause of death
+
+
 **Data Description**
-The data provided is for 2020 death cases. There are 16 features available with case
-number as a unique identifier and Reason of Death as a target variable. The Data
-dictionary is attached with the data.
+* The data provided is for 2020 death cases. There are 16 features available with case number as a unique identifier and Reason of Death as a target variable.
+
+
+
 **Tech Stack***
 * Language: Python
 * Libraries: pytorch, pandas, numpy, regex,boto3, seaborn, sagemaker, matplotlib
