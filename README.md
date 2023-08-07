@@ -1,6 +1,9 @@
 # Build-an-End-to-End-AWS-SageMaker-Classification-Model
 MLOps on AWS SageMaker - Build an End-to-End Classification Model on SageMaker to predict a patient’s cause of death.
 
+
+
+
 **Overview**
 
 
@@ -19,10 +22,12 @@ sagemaker. Amazon sagemaker is a managed service on AWS cloud. It provides tools
 
 
 
-**Tech Stack***
+**Tech Stack**
 * Language: Python
 * Libraries: pytorch, pandas, numpy, regex,boto3, seaborn, sagemaker, matplotlib
 * Services used- AWS lambda, AWS sagemaker, Datawrangler
+
+
 **Approach**
 ![image](https://github.com/prerakchintalwar/Build-an-End-to-End-AWS-SageMaker-Classification-Model/assets/54786504/6868effa-1d1e-488d-8ba5-4425e2be35fd)
 
